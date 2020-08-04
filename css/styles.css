@@ -1,0 +1,159 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.top-container {
+  background-color: #f7f7f7;
+  color: #3f3f44;
+  position: relative;
+  padding-top: 115px;
+  padding-bottom: 0;
+}
+
+.middle-container {
+  background-color: #3f3f44;
+  color: #f7f7f7;
+  padding: 5% 0 5% 0;
+}
+
+.bottom-container {
+  background-color: #f7f7f7;
+  color: #3f3f44;
+  padding: 2% 0 2% 0;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 54%;
+  left: 30%;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 70%;
+  top: 10%;
+}
+
+h1 {
+  font-family: "Holtwood One SC", serif;
+  margin: 3.125rem auto 0 auto;
+  font-size: 5.62rem;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+h2,
+h3 {
+  font-family: "Amatic SC", cursive;
+}
+
+.girl {
+  height: 8rem;
+}
+
+a,
+h3 {
+  color: #fdcb9e;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 1.3rem;
+}
+
+.animals,
+.tea,
+.programming,
+.sleeping {
+  width: 128px;
+  padding: 30px 0;
+}
+
+.animals,
+.programming {
+  float: left;
+  margin-right: 30px;
+}
+
+.tea,
+.sleeping {
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 0.5rem;
+  width: 8%;
+  margin: 7% auto 7% auto;
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f7f7f7 100%);
+	background-color:#ffffff;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px  #fdcb9e;
+    margin: 50px 0;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #f7f7f7 3%, #fdcb9e 100%);
+	background-color:#fdcb9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.footer-link {
+    margin: 3%;
+}
+.icon-link {
+margin: 3% 0;
+}
+.profile {
+    width: 50%;
+    margin: 0 auto;
+}
+.contact-me {
+    width: 50%;
+    margin:auto ;
+
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:#d37b41fb;
+}
+.copyright{
+    font-size: 0.8rem;
+    color: #70707260;
+}
